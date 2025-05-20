@@ -1,0 +1,148 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Soalheira",
+    "description": "",
+    "home_page_url": "https://a-soalheira.github.io/Website",
+    "feed_url": "https://a-soalheira.github.io/Website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "asoalheira"
+    },
+    "items": [
+        {
+            "id": "https://a-soalheira.github.io/Website/oficina-alimentacao-saudavel.html",
+            "url": "https://a-soalheira.github.io/Website/oficina-alimentacao-saudavel.html",
+            "title": "Oficina Alimentação Saudável",
+            "author": {
+                "name": "asoalheira"
+            },
+            "tags": [
+                   "Oficinas",
+                   "Eventos",
+                   "Alimentação"
+            ],
+            "date_published": "2025-05-20T20:20:08+01:00",
+            "date_modified": "2025-05-20T20:20:08+01:00"
+        },
+        {
+            "id": "https://a-soalheira.github.io/Website/cultura-em-expansao.html",
+            "url": "https://a-soalheira.github.io/Website/cultura-em-expansao.html",
+            "title": "Cultura em Expansão",
+            "author": {
+                "name": "asoalheira"
+            },
+            "tags": [
+                   "Projectos",
+                   "Oficinas",
+                   "Eventos"
+            ],
+            "date_published": "2025-05-20T20:19:27+01:00",
+            "date_modified": "2025-05-20T20:19:27+01:00"
+        },
+        {
+            "id": "https://a-soalheira.github.io/Website/clamingo.html",
+            "url": "https://a-soalheira.github.io/Website/clamingo.html",
+            "title": "Clamingo",
+            "author": {
+                "name": "asoalheira"
+            },
+            "tags": [
+                   "Tecnologia",
+                   "Projectos",
+                   "Arte"
+            ],
+            "date_published": "2025-05-20T20:15:21+01:00",
+            "date_modified": "2025-05-20T20:17:41+01:00"
+        },
+        {
+            "id": "https://a-soalheira.github.io/Website/encontro-gaitas-de-foles.html",
+            "url": "https://a-soalheira.github.io/Website/encontro-gaitas-de-foles.html",
+            "title": "Encontro Gaitas de Foles",
+            "author": {
+                "name": "asoalheira"
+            },
+            "tags": [
+                   "Tradições",
+                   "Eventos",
+                   "Arte"
+            ],
+            "date_published": "2025-05-20T20:14:40+01:00",
+            "date_modified": "2025-05-20T20:17:54+01:00"
+        },
+        {
+            "id": "https://a-soalheira.github.io/Website/vindima.html",
+            "url": "https://a-soalheira.github.io/Website/vindima.html",
+            "title": "Vindima",
+            "author": {
+                "name": "asoalheira"
+            },
+            "tags": [
+                   "Tradições",
+                   "Eventos",
+                   "APPC"
+            ],
+            "date_published": "2025-05-20T20:14:03+01:00",
+            "date_modified": "2025-05-20T20:18:07+01:00"
+        },
+        {
+            "id": "https://a-soalheira.github.io/Website/magusto.html",
+            "url": "https://a-soalheira.github.io/Website/magusto.html",
+            "title": "Magusto",
+            "author": {
+                "name": "asoalheira"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-20T20:13:55+01:00",
+            "date_modified": "2025-05-20T20:13:55+01:00"
+        },
+        {
+            "id": "https://a-soalheira.github.io/Website/forno-comunitario.html",
+            "url": "https://a-soalheira.github.io/Website/forno-comunitario.html",
+            "title": "Forno Comunitário",
+            "author": {
+                "name": "asoalheira"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-20T20:12:54+01:00",
+            "date_modified": "2025-05-20T20:12:54+01:00"
+        },
+        {
+            "id": "https://a-soalheira.github.io/Website/activismo-afetivo.html",
+            "url": "https://a-soalheira.github.io/Website/activismo-afetivo.html",
+            "title": "Activismo Afetivo",
+            "author": {
+                "name": "asoalheira"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-20T20:12:10+01:00",
+            "date_modified": "2025-05-20T20:12:10+01:00"
+        },
+        {
+            "id": "https://a-soalheira.github.io/Website/projecto-hibridos.html",
+            "url": "https://a-soalheira.github.io/Website/projecto-hibridos.html",
+            "title": "Projecto Hibridos",
+            "author": {
+                "name": "asoalheira"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-20T20:11:28+01:00",
+            "date_modified": "2025-05-20T20:11:28+01:00"
+        },
+        {
+            "id": "https://a-soalheira.github.io/Website/ervas-insoburdinadas.html",
+            "url": "https://a-soalheira.github.io/Website/ervas-insoburdinadas.html",
+            "title": "Ervas Insoburdinadas",
+            "author": {
+                "name": "asoalheira"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-20T20:11:12+01:00",
+            "date_modified": "2025-05-20T20:11:12+01:00"
+        }
+    ]
+}

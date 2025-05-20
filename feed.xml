@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Soalheira</title>
+    <link href="https://a-soalheira.github.io/Website/feed.xml" rel="self" />
+    <link href="https://a-soalheira.github.io/Website" />
+    <updated>2025-05-20T20:20:08+01:00</updated>
+    <author>
+        <name>asoalheira</name>
+    </author>
+    <id>https://a-soalheira.github.io/Website</id>
+
+    <entry>
+        <title>Oficina Alimentação Saudável</title>
+        <author>
+            <name>asoalheira</name>
+        </author>
+        <link href="https://a-soalheira.github.io/Website/oficina-alimentacao-saudavel.html"/>
+        <id>https://a-soalheira.github.io/Website/oficina-alimentacao-saudavel.html</id>
+            <category term="Oficinas"/>
+            <category term="Eventos"/>
+            <category term="Alimentação"/>
+
+        <updated>2025-05-20T20:20:08+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Cultura em Expansão</title>
+        <author>
+            <name>asoalheira</name>
+        </author>
+        <link href="https://a-soalheira.github.io/Website/cultura-em-expansao.html"/>
+        <id>https://a-soalheira.github.io/Website/cultura-em-expansao.html</id>
+            <category term="Projectos"/>
+            <category term="Oficinas"/>
+            <category term="Eventos"/>
+
+        <updated>2025-05-20T20:19:27+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Clamingo</title>
+        <author>
+            <name>asoalheira</name>
+        </author>
+        <link href="https://a-soalheira.github.io/Website/clamingo.html"/>
+        <id>https://a-soalheira.github.io/Website/clamingo.html</id>
+            <category term="Tecnologia"/>
+            <category term="Projectos"/>
+            <category term="Arte"/>
+
+        <updated>2025-05-20T20:15:21+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Encontro Gaitas de Foles</title>
+        <author>
+            <name>asoalheira</name>
+        </author>
+        <link href="https://a-soalheira.github.io/Website/encontro-gaitas-de-foles.html"/>
+        <id>https://a-soalheira.github.io/Website/encontro-gaitas-de-foles.html</id>
+            <category term="Tradições"/>
+            <category term="Eventos"/>
+            <category term="Arte"/>
+
+        <updated>2025-05-20T20:14:40+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Vindima</title>
+        <author>
+            <name>asoalheira</name>
+        </author>
+        <link href="https://a-soalheira.github.io/Website/vindima.html"/>
+        <id>https://a-soalheira.github.io/Website/vindima.html</id>
+            <category term="Tradições"/>
+            <category term="Eventos"/>
+            <category term="APPC"/>
+
+        <updated>2025-05-20T20:14:03+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Magusto</title>
+        <author>
+            <name>asoalheira</name>
+        </author>
+        <link href="https://a-soalheira.github.io/Website/magusto.html"/>
+        <id>https://a-soalheira.github.io/Website/magusto.html</id>
+
+        <updated>2025-05-20T20:13:55+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Forno Comunitário</title>
+        <author>
+            <name>asoalheira</name>
+        </author>
+        <link href="https://a-soalheira.github.io/Website/forno-comunitario.html"/>
+        <id>https://a-soalheira.github.io/Website/forno-comunitario.html</id>
+
+        <updated>2025-05-20T20:12:54+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Activismo Afetivo</title>
+        <author>
+            <name>asoalheira</name>
+        </author>
+        <link href="https://a-soalheira.github.io/Website/activismo-afetivo.html"/>
+        <id>https://a-soalheira.github.io/Website/activismo-afetivo.html</id>
+
+        <updated>2025-05-20T20:12:10+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Projecto Hibridos</title>
+        <author>
+            <name>asoalheira</name>
+        </author>
+        <link href="https://a-soalheira.github.io/Website/projecto-hibridos.html"/>
+        <id>https://a-soalheira.github.io/Website/projecto-hibridos.html</id>
+
+        <updated>2025-05-20T20:11:28+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Ervas Insoburdinadas</title>
+        <author>
+            <name>asoalheira</name>
+        </author>
+        <link href="https://a-soalheira.github.io/Website/ervas-insoburdinadas.html"/>
+        <id>https://a-soalheira.github.io/Website/ervas-insoburdinadas.html</id>
+
+        <updated>2025-05-20T20:11:12+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
